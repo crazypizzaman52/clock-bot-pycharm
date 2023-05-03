@@ -1,0 +1,169 @@
+2023-05-03 12:02:56,724:!comps
+2023-05-03 12:02:56,990:competition just found: Viljandi Värk 2023
+2023-05-03 12:03:01,851:competition just found: Mill Creek 2023
+2023-05-03 12:03:03,759:competition just found: Harrow Autumn 2023
+2023-05-03 12:03:04,839:competition just found: Claws Up Summer 2023
+2023-05-03 12:03:06,267:competition just found: Bilbao Open 2023
+2023-05-03 12:03:07,374:competition just found: NZ South Island Champs 2023
+2023-05-03 12:03:08,640:competition just found: CubingZA Nationals 2023
+2023-05-03 12:03:09,575:competition just found: Big E Slice 2023
+2023-05-03 12:03:10,785:competition just found: Please Be Loud in Tashkent 2023
+2023-05-03 12:03:12,792:competition just found: FLIP Open 2023
+2023-05-03 12:03:15,136:competition just found: Couffouleux Open 2023
+2023-05-03 12:03:19,617:competition just found: Wroc\u0142aw Cubing Holiday 2023
+2023-05-03 12:03:21,191:competition just found: Dragon Cubing 2023
+2023-05-03 12:03:22,462:competition just found: Dutch Open 2023
+2023-05-03 12:03:23,835:competition just found: Wilmington Warmup 2023
+2023-05-03 12:03:25,686:competition just found: It's Sarzana O'clock 2023
+2023-05-03 12:03:27,803:competition just found: Quezon City Open 2023
+2023-05-03 12:03:29,685:competition just found: Budapest Summer 2023
+2023-05-03 12:03:31,651:competition just found: Rocky Mountain Championship 2023
+2023-05-03 12:03:32,928:competition just found: Cubehenge 2023
+2023-05-03 12:03:34,513:competition just found: Bolivia Nationals 2023
+2023-05-03 12:03:36,310:competition just found: Chanquete Open 2023
+2023-05-03 12:03:37,254:competition just found: Westchester Weeknights 1 2023
+2023-05-03 12:03:38,301:competition just found: Zaragoza Open 2023
+2023-05-03 12:03:40,225:competition just found: Clockeborg 2023
+2023-05-03 12:03:41,875:competition just found: Southern Championship 2023
+2023-05-03 12:03:46,282:competition just found: Westview Cubing Favorites 2023
+2023-05-03 12:03:47,621:competition just found: Atatürk Cube Weekend 2023
+2023-05-03 12:03:49,000:competition just found: Tumba Open 2023
+2023-05-03 12:03:50,409:competition just found: Please Be Quiet Evanston 2023
+2023-05-03 12:03:51,614:competition just found: Autotalo All Events 2 2023
+2023-05-03 12:03:52,893:competition just found: Louisiana Mega Two Day 2023
+2023-05-03 12:03:54,306:competition just found: Cube Force Lima 2023
+2023-05-03 12:03:55,534:competition just found: Pulmapelipäivät 2023
+2023-05-03 12:03:56,796:competition just found: Montemurlo Speedcubing 2023
+2023-05-03 12:03:58,000:competition just found: Leovit Cubing Kazakhstan 2023
+2023-05-03 12:03:59,489:competition just found: Gan Open 2023
+2023-05-03 12:04:00,481:competition just found: Vilnius Amanita 2023
+2023-05-03 12:04:01,811:competition just found: Let's Qualify Kuwait 2023
+2023-05-03 12:04:02,948:competition just found: Partage Open II 2023
+2023-05-03 12:04:04,202:competition just found: Swiss Nationals 2023
+2023-05-03 12:04:05,239:competition just found: U Cube at UQ Saturday 2023
+2023-05-03 12:04:09,345:competition just found: Sagrado Corazón Open 2023
+2023-05-03 12:04:10,276:competition just found: Arizona Speedcubing Summer 2023
+2023-05-03 12:04:11,356:competition just found: Prenacionales Bucaramanga 2023
+2023-05-03 12:04:12,271:competition just found: Don't Blow Away Casper 2023
+2023-05-03 12:04:13,288:competition just found: Torrelavega Open 2023
+2023-05-03 12:04:14,452:competition just found: Baden Side Events 2023
+2023-05-03 12:04:15,369:competition just found: Tarragona Side Events 2023
+2023-05-03 12:04:16,608:competition just found: Western Championship 2023
+2023-05-03 12:04:17,494:competition just found: Pavilion Cube Open 2023
+2023-05-03 12:04:18,445:competition just found: Rheinland-Pfalz Open 2023
+2023-05-03 12:04:19,601:competition just found: Mid-Atlantic Championship 2023
+2023-05-03 12:04:20,466:competition just found: Monterrey Bogotá II 2023
+2023-05-03 12:04:21,345:competition just found: Halifax Favourites 2023
+2023-05-03 12:04:22,246:competition just found: Czech Open 2023
+2023-05-03 12:04:23,190:competition just found: Take Your Time Richmond 2023
+2023-05-03 12:04:24,412:competition just found: Glasgow Spring 2023
+2023-05-03 12:04:26,283:competition just found: Great Lakes Championship 2023
+2023-05-03 12:04:28,282:competition just found: It's Blind Time Montevideo 2023
+2023-05-03 12:04:29,209:competition just found: Singapore Special 2023
+2023-05-03 12:04:30,854:competition just found: Afraid in Airdrie 2023
+2023-05-03 12:04:33,058:competition just found: UTM Speedcubing Open 2023
+2023-05-03 12:04:34,305:competition just found: PBQ NYC Spring 2023
+2023-05-03 12:04:35,432:competition just found: Silent South Australia 2023
+2023-05-03 12:04:36,401:competition just found: Imbabura Open 2023
+2023-05-03 12:04:37,482:competition just found: LSP Hverdagskubing Mai 2023
+2023-05-03 12:04:38,503:competition just found: New Zealand Nationals 2023
+2023-05-03 12:04:39,572:competition just found: FargoDome 2023
+2023-05-03 12:04:40,579:competition just found: Howrah Cube Open 2023
+2023-05-03 12:04:41,650:competition just found: Cube Camp In Kaeng Krachan 2023
+2023-05-03 12:04:43,990:competition just found: Cube4fun in Jaros\u0142aw 2023
+2023-05-03 12:04:46,906:competition just found: Vilnius Summer Open 2023
+2023-05-03 12:04:49,903:competition just found: Edinburgh Summer 2023
+2023-05-03 12:04:52,044:competition just found: Litoral Cubea 2023
+2023-05-03 12:04:53,301:competition just found: Rose City 2023
+2023-05-03 12:04:54,340:competition just found: Shambala Cubing Day 2023
+2023-05-03 12:04:55,514:competition just found: Dolné Orešany Open 2023
+2023-05-03 12:04:56,628:competition just found: Bristol Summer 2023
+2023-05-03 12:04:57,604:competition just found: Washtenaw Qualifier 2023
+2023-05-03 12:04:58,823:competition just found: Cashmere Open 2023
+2023-05-03 12:04:59,950:competition just found: CMT Grand Junction 2023
+2023-05-03 12:05:02,566:competition just found: CMT Golden 2023
+2023-05-03 12:05:03,513:competition just found: North Jersey Speedsolving B 2023
+2023-05-03 12:05:04,614:competition just found: Sydney Square-1v1 2023
+2023-05-03 12:05:05,567:competition just found: Side N Blind Narre Warren 2023
+2023-05-03 12:05:06,556:competition just found: Suffolk Summer 2023
+2023-05-03 12:05:07,396:competition just found: Honolulu H-Perm H\u014d\u02bbike 2023
+2023-05-03 12:05:08,217:competition just found: Sesi Santos 2023
+2023-05-03 12:05:09,386:competition just found: Mystic Cubikon 2023
+2023-05-03 12:05:10,532:competition just found: Side 'n blind Samobor 2023
+2023-05-03 12:05:12,517:competition just found: Jönköpingsligan 6: Heroes 2023
+2023-05-03 12:05:13,781:competition just found: Jönköpingsligan 4: Heaven 2023
+2023-05-03 12:05:14,860:competition just found: DFW Spring Warmup 2023
+2023-05-03 12:05:15,857:competition just found: It's a Long Way to Tipp 2023
+2023-05-03 12:05:16,733:competition just found: Minnesota Cube Melt 2023
+2023-05-03 12:05:17,950:competition just found: Heartland Championship 2023
+2023-05-03 12:05:18,781:competition just found: Tampere 2023
+2023-05-03 12:05:19,814:competition just found: AlphaCubing B 2023
+2023-05-03 12:05:20,970:competition just found: West Visayas Championship 2023
+2023-05-03 12:05:21,947:competition just found: Aasee Algorithms 2023
+2023-05-03 12:05:22,953:competition just found: Sandpoint The North Awakens 2023
+2023-05-03 12:05:24,178:competition just found: WCA World Championship 2023
+2023-05-03 12:05:25,105:competition just found: Timisoara Cube Days 2023
+2023-05-03 12:05:26,111:competition just found: Nacionales Colombia 2023
+2023-05-03 12:05:27,255:competition just found: Peterborough Summer 2023
+2023-05-03 12:05:28,200:competition just found: Gem City D&D 2023
+2023-05-03 12:05:29,860:competition just found: Trondheim Cube Week 2023
+2023-05-03 12:05:30,953:competition just found: Oslo Open 2023
+2023-05-03 12:05:31,951:competition just found: Fountain City 2023
+2023-05-03 12:05:32,782:competition just found: Oficina Open 2023
+2023-05-03 12:05:33,704:competition just found: Nyköping Side Events 2023
+2023-05-03 12:05:34,630:competition just found: Stockholmsligan 8 Cottagers 2023
+2023-05-03 12:05:35,367:competition just found: GCU Spring 2023
+2023-05-03 12:05:36,232:competition just found: Østervang Open 2023
+2023-05-03 12:05:37,824:competition just found: Portugalete Open 2023
+2023-05-03 12:05:38,938:competition just found: Ciu Open 2023
+2023-05-03 12:05:39,895:competition just found: German Nationals 2023
+2023-05-03 12:05:40,807:competition just found: Cebu Summer Open 2023
+2023-05-03 12:05:41,813:competition just found: Weston-super-Mare Autumn 2023
+2023-05-03 12:05:42,794:competition just found: Weston-super-Mare Spring 2023
+2023-05-03 12:05:43,948:competition just found: Canadian Championship 2023
+2023-05-03 12:05:44,886:competition just found: X-Madrid Open 2023
+2023-05-03 12:05:45,775:competition just found: BioAteneu Santos 2023
+2023-05-03 12:05:46,563:competition just found: Middleboro Cubikon 2023
+2023-05-03 12:05:47,523:competition just found: New Hampshire Spring 2023
+2023-05-03 12:05:48,605:competition just found: Nhood Xperience Sant Boi 2023
+2023-05-03 12:05:49,543:competition just found: Hessen Open 2023
+2023-05-03 12:05:50,449:competition just found: Calmecac Tlaxcala 2023
+2023-05-03 12:05:51,354:competition just found: CO Jungle Jumble 2023
+2023-05-03 12:05:52,271:competition just found: Utah Summer Side Events A 2023
+2023-05-03 12:05:53,398:competition just found: Nacka Open 2023
+2023-05-03 12:05:54,442:competition just found: Solving by the Shannon 2023
+2023-05-03 12:05:55,221:competition just found: Chilling in Canberra 2023
+2023-05-03 12:05:55,961:competition just found: I Candanguim 2023
+2023-05-03 12:05:58,171:competition just found: Siedlce Open 2023
+2023-05-03 12:05:59,155:competition just found: Energy Cube Tomaszów 2023
+2023-05-03 12:06:00,132:competition just found: Energy Cube Ciechanów 2023
+2023-05-03 12:06:01,002:competition just found: SAJ Águas da Prata 2023
+2023-05-03 12:06:02,064:competition just found: Panama Nationals 2023
+2023-05-03 12:06:03,289:competition just found: French Championship 2023
+2023-05-03 12:06:04,296:competition just found: Norwegian Championship 2023
+2023-05-03 12:06:05,280:competition just found: SOS Waterloo 2023
+2023-05-03 12:06:06,211:competition just found: SOS Newmarket 2023
+2023-05-03 12:06:07,141:competition just found: SOS Oshawa 2023
+2023-05-03 12:06:08,142:competition just found: Swedish Championship 2023
+2023-05-03 12:06:09,066:competition just found: Salt Lake Utah Summer 2023
+2023-05-03 12:06:10,399:competition just found: Irish Championship 2023
+2023-05-03 12:06:11,707:competition just found: No Triangle in D\u0119bica 2023
+2023-05-03 12:06:12,959:competition just found: Baztan Side Events 2023
+2023-05-03 12:06:13,791:competition just found: Colorado Western Slope 2023
+2023-05-03 12:06:14,837:competition just found: Wakefield Autumn 2023
+2023-05-03 12:06:15,675:competition just found: GLS IV 2023
+2023-05-03 12:06:16,572:competition just found: ROC the Cube 2023
+2023-05-03 12:06:17,728:competition just found: North Highlands Summer 2023
+2023-05-03 12:06:18,953:competition just found: SacCubing XIV 2023
+2023-05-03 12:06:19,798:competition just found: BrizZon Sylwester Open 2023
+2023-05-03 12:06:21,105:competition just found: BrizZon Side Open V 2023
+2023-05-03 12:06:22,762:competition just found: BrizZon Side Open IV 2023
+2023-05-03 12:06:23,780:competition just found: BrizZon Side Open III 2023
+2023-05-03 12:06:24,613:competition just found: GLS III 2023
+2023-05-03 12:06:25,655:competition just found: Norwich Summer 2023
+2023-05-03 12:06:26,892:competition just found: Wiltshire Summer 2023
+2023-05-03 12:06:28,013:competition just found: Stevenage November 2023
+2023-05-03 12:06:29,067:competition just found: CubingUSA Nationals 2023
+2023-05-03 12:06:29,998:competition just found: Open de Lumes 2023
+2023-05-03 12:06:31,046:competition just found: Australian Nationals 2023
+2023-05-03 12:06:31,046:updated comps
